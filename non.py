@@ -103,8 +103,8 @@ print "\033[1;97mAccount that goes to Checkpoint is due to Facebook"
 print "\033[1;97mSecurity,Tool is not Responsible for this Thing..."
 print "\033[1;94m«-----------------\033[1;95mLogin With Tool\033[1;94m----------------»"
 
-CorrectUsername = "Omi6t"
-CorrectPassword = "Omi"
+CorrectUsername = "saqib"
+CorrectPassword = "saqib"
 
 loop = 'true'
 while (loop == 'true'):
